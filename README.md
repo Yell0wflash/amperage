@@ -229,8 +229,6 @@ var disqus_config = function () {
 };
 ```
 
-What I personally recommend is to use a new Github Pages project and refer it from your main site. Here you can see a [fully functional example using Disqus](https://github.com/asurbernardo/blog-comments).
-
 ## ❯ Contributing to Amperage
 
 If you have a feature request or have found a bug feel free to open a new issue.
