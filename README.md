@@ -80,7 +80,7 @@ paginate = 10
 [[menu.main]]
     identifier = "github"
     name = "GitHub"
-    url = "https://github.com/asurbernardo/amperage"
+    url = "https://github.com/Yell0wflash/amperage"
     weight = 10
 
 # Enable only tags taxonomy
@@ -170,7 +170,7 @@ On the menu you can set internal and external links. To set external links you c
 [[menu.main]]
     identifier = "github"
     name = "GitHub"
-    url = "https://github.com/asurbernardo/amperage"
+    url = "https://github.com/Yell0wflash/amperage"
     weight = 10
 ```
 
